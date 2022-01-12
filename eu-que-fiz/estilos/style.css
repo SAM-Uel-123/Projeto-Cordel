@@ -66,11 +66,11 @@ div.imagem > p {
 }
 
 .imagem#img01 {
-    background-image: url("../imagens/joaninha.jpg");
+    background-image: url("../imagens/background001.jpg");
 }
 
 .imagem#img02 {
-    background-image: url("../imagens/cartas.jpeg");
+    background-image: url("../imagens/background002.jpg");
 }
 
 footer {
