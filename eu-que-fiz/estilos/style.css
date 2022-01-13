@@ -15,6 +15,7 @@ body {
 a {
     color: white;
     text-decoration: none;
+    font-weight: bolder;
 }
 
 a:hover {
@@ -79,3 +80,4 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
